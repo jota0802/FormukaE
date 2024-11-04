@@ -1,0 +1,35 @@
+{
+  "usuario": [
+    {
+      "id": "9f3e",
+      "nome": "João Victor Franco",
+      "email": "jvfranco08@gmail.com",
+      "senha": "Jotinha02!"
+    },
+    {
+      "id": "9be0",
+      "nome": "Yuri",
+      "email": "yurireidelas@gmail.com",
+      "senha": "Yuri02!"
+    },
+    {
+      "id": "3660",
+      "nome": "Yuri",
+      "email": "yurireidelas@gmail.com",
+      "senha": "Yuri02!"
+    },
+    {
+      "id": "46c5",
+      "nome": "jota",
+      "email": "jvfranco02@gmail.com",
+      "senha": "jotinha02!"
+    },
+    {
+      "id": "19d7",
+      "nome": "Isa Ovo Cozido",
+      "email": "isadoovo@gmail.com",
+      "senha": "Isa1234!"
+    }
+  ],
+  "login": []
+}
